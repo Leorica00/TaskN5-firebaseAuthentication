@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124375618972",
+    "project_id": "authentification-7b60c",
+    "storage_bucket": "authentification-7b60c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124375618972:android:4c7aefdbf788561a642459",
+        "android_client_info": {
+          "package_name": "com.example.taskn5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xhIdBX61ffL6DtkmSJpri6SJlSzZJEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
